@@ -2,6 +2,9 @@ Go 通过结构体指定字段进行排序  https://www.cnblogs.com/cxy2020/p/14
 vscode常用快捷键（动图演示） https://blog.csdn.net/weixin_46655235/article/details/121788623
 
 フレームワーク「GIN」を使ってみた（リクエストパラメータ）  https://qiita.com/koshi_an/items/872a6faf7266dbb6369c
+Gin 框架中文文档  https://learnku.com/docs/gin-gonic/1.5/quickstart/6151
+
+Go Gin 简明教程 https://geektutu.com/post/quick-go-gin.html
 
 
 
