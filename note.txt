@@ -9,3 +9,4 @@ Go Gin 简明教程 https://geektutu.com/post/quick-go-gin.html
 
 
 anychart 做网络关系图  html  https://playground.anychart.com/docs/v8/samples/BCT_Network_Graph_13
+【Go言語】ginを使ってローカル環境を構築する   https://qiita.com/shouya31/items/4d3d704ab07ffdabf2a6
