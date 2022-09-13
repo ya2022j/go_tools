@@ -12,3 +12,5 @@ anychart 做网络关系图  html  https://playground.anychart.com/docs/v8/sampl
 【Go言語】ginを使ってローカル環境を構築する   https://qiita.com/shouya31/items/4d3d704ab07ffdabf2a6
 交换机之vlan详解  http://wjhsh.net/javalinux-p-14292207.html
 Go 语言优秀资源整理，为项目落地加速🏃[2022.07.25更新] https://shockerli.net/post/go-awesome/
+Golang后端渲染整合vue单页面冲突解决　https://codeantenna.com/a/ZcnCGD4Ptz
+vue子组件给父组件传值 https://blog.51cto.com/u_6192297/33071
