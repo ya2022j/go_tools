@@ -15,3 +15,4 @@ Go 语言优秀资源整理，为项目落地加速🏃[2022.07.25更新] https:
 Golang后端渲染整合vue单页面冲突解决　https://codeantenna.com/a/ZcnCGD4Ptz
 vue子组件给父组件传值 https://blog.51cto.com/u_6192297/33071
 日语绿宝书pdf百度云   https://pan.baidu.com/s/1hFIgAtEF_oYpz9hnuivtlw  g566 
+https://stackshare.io/reddit/reddit
