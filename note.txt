@@ -16,3 +16,215 @@ Golang后端渲染整合vue单页面冲突解决　https://codeantenna.com/a/Zcn
 vue子组件给父组件传值 https://blog.51cto.com/u_6192297/33071
 日语绿宝书pdf百度云   https://pan.baidu.com/s/1hFIgAtEF_oYpz9hnuivtlw  g566 
 https://stackshare.io/reddit/reddit
+
+
+https://hellogithub.com/
+
+
+python:
+
+目前最强大的开源 Django CMS（内容管理系统） https://github.com/wagtail/wagtail
+用 Python 操作 selenium 的实战项目  https://github.com/yqchilde/JDMemberCloseAccount
+以 Python 的方式操作 Redis 的库 https://github.com/brainix/pottery
+为 Django Rest Framework 接口自动生成 Swagger 接口文档的库 https://github.com/axnsan12/drf-yasg
+用 Python 操作 Docker 的库 https://github.com/docker/docker-py
+简单实用的删除图像背景/抠图工具 https://github.com/danielgatis/rembg
+用 Python 操作 Kubernetes 的框架  https://github.com/nolar/kopf
+功能强大的子域收集工具 https://github.com/shmilylty/OneForAll
+用 Python 代码图解系统架构  https://github.com/mingrammer/diagrams
+基于 Django 开发的 redis 集群管理、监控工具 https://github.com/NaNShaner/repoll
+Python 的词云生成工具  https://github.com/amueller/word_cloud
+Uber 开源的 Python 性能分析工具  https://github.com/uber-archive/pyflame
+利用 GitHub 提供的 API 监控 Git 泄漏，并在检测到信息泄露的时候发送邮件通知  https://github.com/Macr0phag3/GithubMonitor
+置时任务  地球照 https://github.com/boramalper/himawaripy
+
+免费的自动启用和部署 HTTPS 的工具  https://github.com/certbot/certbot
+mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具 https://github.com/dbcli/mycli
+一个 Flask 的扩展库，它可以根据访问者的 IP 限制其访问频率、次数等。 
+好用的内网穿透工具，它可以把本地某个端口的服务，通过一个安全隧道，映射到公网的一个地址。同时它提供了一个 Web 页面，展示了每个请求、响应的所有信息，便于调试本地的程序。
+https://github.com/inconshreveable/ngrok
+
+模拟用户行为的负载测试工具，包含友好的 Web 页面  https://github.com/locustio/locust
+
+reddit.com 网站的源码  https://github.com/reddit-archive/reddit
+
+企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示 
+https://github.com/apache/superset
+
+
+golang:
+
+简单易用的家庭云系统。只需一键即可安装在 NAS、树莓派等各种家庭智能设备上，让你可以随时随地管理个人数据和设备。
+https://github.com/IceWhaleTech/CasaOS
+
+可能是最知名的 Go 爬虫框架。它拥有友好的 API 和丰富代码示例，短时间内即可上手。性能方面单核能达到 1K 请求/秒，还可以轻松管理请求方式、间隔和最大并发数，功能强大且优雅。
+
+https://github.com/gocolly/colly
+
+
+一个 Go 写的轻量级社区。采用 Gin+Vue 实现的微社区，界面清爽拥有话题、发布短内容、评论等功能。
+
+https://github.com/rocboss/paopao-ce
+
+
+高性能 goroutine 池。实现了大规模下的 goroutine 调度和复用，从而节省资源提高执行效果。还有如任务提交、动态调整 pool 大小、查询运行状态等实用接口
+https://github.com/panjf2000/ants
+
+轻量级全文搜索引擎。Go 语言下的轻量级搜索引擎，支持中文搜索自带 Web 管理界面
+
+https://github.com/zinclabs/zinc
+
+
+提供登陆界面的身份访问管理平台。提供中文界面的用户管理后台，支持多种第三方登录、单点登录以及手机/邮箱验证码、找回密码等功能
+
+https://github.com/casdoor/casdoor
+
+
+纯 Go 开发的流媒体服务器。完备的直播服务器，支持多种常见编码格式和 RTMP、RTSP、HLS 等协议
+
+
+https://github.com/q191201771/lal
+https://pengrl.com/lal/#/
+
+由 Go 语言实现的推荐系统引擎。 https://github.com/gorse-io/gorse
+
+
+Go 原生图表库。支持折线图、柱状图、饼图等
+
+https://github.com/wcharczuk/go-chart
+
+自动生成 Go 语言测试代码的工具。
+https://github.com/cweill/gotests
+
+
+可以让任意两台计算机，安全方便地传输文件和文件夹的工具。轻松实现端到端加密的跨平台文件传输，还支持多文件传输、传输中断和恢复等功能
+
+https://github.com/schollz/croc
+
+Go 的集合支付库。支持微信、支付宝、PayPal、QQ 支付
+
+
+https://github.com/go-pay/gopay
+
+每天学习一个 Go 语言库。内容包含标准库和三方库，
+
+https://github.com/darjun/go-daily-lib
+
+
+一条命令即可快速部署 Kubernetes(k8s) 集群的工具
+
+基于 Go 的流量 录制/回放 工具。实现在不影响线上服务的前提下，
+
+https://github.com/didi/sharingan
+
+作者学习 Go 过程中实践的 Go 代码集合。 
+
+https://github.com/hwholiday/learning_tools 
+
+Go 语言的静态网站生成器。
+
+https://github.com/gohugoio/hugo
+
+各大网站热门头条的聚合网站
+https://github.com/tophubs/TopList
+
+
+简单易用高性能的 Go DNS 库
+
+https://github.com/miekg/dns
+
+基于 Go 的开源实时性能分析平台。
+
+https://github.com/pyroscope-io/pyroscope
+
+一个基于 Gin+Vue 实现的后台管理系统。
+https://github.com/flipped-aurora/gin-vue-admin
+
+一款 Go 插件化的基础框架。我只知道它是个 Go 微服务框架，基于它可以快速构建微服务。
+https://github.com/go-micro/go-micro
+
+简化 go-gin 框架注册路由方式，自动生成 Swagger/Markdown 文档。
+
+https://github.com/xxjwxc/ginrpc
+
+
+基于 Go 实现的直播服务项目
+
+
+https://github.com/gwuhaolin/livego/blob/master/README_cn.md
+
+
+ Go 目前最受欢迎的第三方日志库
+https://github.com/sirupsen/logrus
+
+Go 的 websocket 三方库
+https://github.com/gorilla/websocket
+
+高性能 Go HTTP 三方库。性能是标准库 net/http 数倍
+
+
+https://github.com/valyala/fasthttp
+
+读写 xlsx 文件的 Go 库
+
+一款支持解析、查询 JSON/YAML/XML/CSV 数据的 Go 三方开源库
+https://github.com/thedevsaddam/gojsonq
+
+
+无需配置，执行一条命令让本地的开发环境实现 HTTPS 的工具。
+https://github.com/FiloSottile/mkcert
+
+阿里开源的用于 redis 数据同步的工具 
+https://github.com/alibaba/RedisShake
+
+基于 Go 语言的高性能大缓存库
+https://github.com/allegro/bigcache
+
+哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配
+
+https://github.com/go-kratos/kratos
+
+
+Golang 代码生成对应的 echarts 可视化图表。
+https://github.com/go-echarts/go-echarts
+
+
+该项目演示了如何用 Go 编写一个可以提供超过一百万个 websockets 连接、运行内存小于 1GB 的服务器。setup.sh 是用来创建 websocket 客户端的，destroy.sh 则用来销毁客户端
+
+https://github.com/eranyanay/1m-go-websockets
+
+Go 的微信支付 SDK。
+
+https://github.com/objcoding/wxpay
+
+
+微信网页版 API 的 Go 实现。支持模拟微信网页版的登录、联系人、消息收发、机器人回复等功能。
+
+https://github.com/songtianyi/wechat-go
+
+Go 编写的快速、简单、干净的视频下载程序。支持哔哩哔哩、YouTube 视频网站
+
+https://github.com/iawia002/lux
+
+Golang 实现 JSON Web Tokens (JWT)
+
+https://github.com/dgrijalva/jwt-go
+
+操作 XLSX 文件，支持 Microsoft Excel™ 2007 以更高版本
+
+https://github.com/qax-os/excelize
+
+Poseidon 系统是奇虎 360 开源的一个日志搜索平台，可以在数百万亿条、数百 PB 大小的日志数据中快速分析和检索特定字符串。
+https://github.com/Qihoo360/poseidon
+
+
+Go 语言实际项目应用的技术分享
+
+https://github.com/gopherchina/conference
+
+
+Go 的 UUID 包
+https://github.com/satori/go.uuid
+
+
+
