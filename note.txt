@@ -4,6 +4,10 @@
 Golang常用类和方法 - 第1页https://vimsky.com/examples/list/golang-all-page-1.html
 
 Vue2.0+组件库总结 https://www.cnblogs.com/cui-cui/p/11575747.html
+详解Vue微信授权登录前后端分离较为优雅的解决方案   https://www.51sjk.com/b166b308766/
+vue.js https://www.jb51.net/list/list_269_1.htm
+https://cn.vuejs.org/guide/introduction.html#single-file-components
+Vue使用组件的3种方式 https://zhuanlan.zhihu.com/p/388852367
 
 
 Vue实战：利用自定义指令实现鼠标拖动元素效果  https://www.php.cn/vuejs/495946.html 
