@@ -8,6 +8,7 @@ Vue2.0+组件库总结 https://www.cnblogs.com/cui-cui/p/11575747.html
 vue.js https://www.jb51.net/list/list_269_1.htm
 https://cn.vuejs.org/guide/introduction.html#single-file-components
 Vue使用组件的3种方式 https://zhuanlan.zhihu.com/p/388852367
+不可错过的实用前端工具，你知道几个？ https://www.51cto.com/article/706610.html
 
 
 Vue实战：利用自定义指令实现鼠标拖动元素效果  https://www.php.cn/vuejs/495946.html 
