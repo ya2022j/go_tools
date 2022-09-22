@@ -6,7 +6,20 @@ Golang常用类和方法 - 第1页https://vimsky.com/examples/list/golang-all-pa
 Vue2.0+组件库总结 https://www.cnblogs.com/cui-cui/p/11575747.html
 
 
+Vue实战：利用自定义指令实现鼠标拖动元素效果  https://www.php.cn/vuejs/495946.html 
 
+Vue组件间怎么通信？组件通信的几种方式 https://www.php.cn/vuejs/494909.html
+【整理分享】一些Vue高频面试题   https://www.php.cn/vuejs/495338.html
+什么是插槽（slot）？聊聊Vue3中插槽的使用方法  https://www.php.cn/vuejs/495227.html
+组件间怎么通信？盘点Vue组件通信方式（值得收藏）  https://www.php.cn/vuejs/495126.html
+看看这3道必问面试题，检验你的Vue掌握程度！  https://www.php.cn/vuejs/494990.html
+20+个实用的 Vue 组件库，快来收藏！  https://www.php.cn/vuejs/494881.html
+一文掌握vue-router的安装与使用   https://www.php.cn/vuejs/494831.html
+深入探讨Vue中数据双向绑定的原理及实现 https://www.php.cn/vuejs/494830.html
+一文深入详解Vue路由：vue-router https://www.php.cn/vuejs/495595.html
+ 
+  php中文网 vue资料 https://www.php.cn/vuejs/
+　
 
 
 Go 通过结构体指定字段进行排序  https://www.cnblogs.com/cxy2020/p/14957218.html
