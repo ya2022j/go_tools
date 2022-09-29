@@ -12,3 +12,52 @@ https://es6.ruanyifeng.com/#docs/module#export-%E5%91%BD%E4%BB%A4
 
 基于vue-cli、elementUI的Vue超简单入门小例子
 https://blog.csdn.net/csdnear/article/details/79426915
+
+
+
+
+
+vue2 playground
+https://stackblitz.com/edit/vue2-vue-cli-zcp6h7?file=src%2FApp.vue
+
+
+vue3 playground
+
+https://stackblitz.com/edit/vue-fcxxry?file=src%2FApp.vue
+
+
+VUE3.0学习系列随笔（二）：VUE3.0和VUE2.0工程结构对比
+
+
+https://blog.csdn.net/qq_26666947/article/details/112978243
+
+
+emoj
+https://icones.js.org/
+
+
+vue3 playground 
+https://codesandbox.io/s/elated-williams-xt8qr0
+
+Vue 3.0 应该怎么学习？
+1. 掌握 webpack 工程化的开发模式；
+2. 掌握 Vue 常用的指令；
+3. 掌握如何使用 vue-cli 快速创建工程化的 Vue 项目；
+4. 掌握 SFC 单文件组件的各种详细用法；
+5. 掌握如何实现组件之间的数据共享；
+6. 掌握 Vue 项目中如何正确配置和使用 axios；
+7. 掌握自定义指令、过滤器、插槽的使用；
+8. 掌握 vue-router 的使用；
+9. 掌握 vue-devtools 调试工具的使用；
+10. 掌握 ref、动态组件、$nextTick 的使用；
+11. 掌握 Vant、Element-UI 组件库的使用；
+12. 能够使用 Vue 实现企业级项目的开发。
+
+
+https://vue3js.cn/
+vue3与vue2的比较
+https://www.jianshu.com/p/54d3280c4473
+
+vue2和vue3的区别
+
+http://events.jianshu.io/p/138068522c1a
