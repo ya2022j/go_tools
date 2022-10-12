@@ -1,0 +1,39 @@
+
+
+script命令：可以将 Linux 终端下的会话过程进行录制下来。
+
+常用参数选项
+-t：用于指定输出录制的时间；
+-a：用于输出录制的文件，并在现内容上添加新内容；
+-c：用于直接执行命令，而非是交互式的 shell；
+-f：用于需要在输出日志文件的同时也可查看日志文件的内容；
+-q：用于可以使 script 命令以静默模式运行；
+-V：用于显示版本并退出；
+
+
+
+
+录制
+
+在命令行中输入命令：
+
+script -t 2> d.time  -a d.txt
+此时，命令行显示：
+Script started, file is test.txt这时便开始记录命令了，在结束你的命令行操作之后，输入：
+
+command1
+command2
+.....
+
+
+
+exit
+这时，命令行显示：
+
+Script done, file is test.txt表示录制结束，这时在你的主文件目录下会出现：d.time 和 d.txt 两个文件。
+
+回放
+
+在命令行中输入：
+
+scriptreplay d.time d.txt即可进行回放。
