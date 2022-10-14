@@ -1,4 +1,12 @@
 你凭什么做好互联网    https://pan.baidu.com/s/1GIdOKLYFx7-89Mg7gvMmfQ  8fr2
+ 
+互联网产品经理的必读书目有哪些？  https://zhuanlan.zhihu.com/p/373721410
+
+推荐互联网产品经理读的书单（一） https://zhuanlan.zhihu.com/p/25167992
+
+推荐互联网产品经理读的书单（二）  https://zhuanlan.zhihu.com/p/25318899
+
+分享8本互联网人、产品经理从业必读的书籍  https://zhuanlan.zhihu.com/p/439086410
 
 The Go Programming Language Specification  https://go.dev/ref/spec#Interface_types
 
