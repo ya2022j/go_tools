@@ -1,3 +1,6 @@
+
+The Go Programming Language Specification  https://go.dev/ref/spec#Interface_types
+
 如何在 Windows 11 中使用任务计划程序 https://www.yundongfang.com/Yun69172.html
  
 解决kswapd0占用cpu过高的问题  https://blog.ybbo.net/2015/10/06/what-is-kswapd0/
