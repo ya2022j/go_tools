@@ -1,11 +1,16 @@
+expectで対話式のコマンドを自動化する  https://sy-base.com/myrobotics/mac/expect_shell_script/
+
+
+如何从机器A上ssh到机器B上，然后执行机器B上的命令？如何使之自动化完成？  Expect是一个用来处理交互的命令。https://www.cnblogs.com/lzrabbit/p/4298794.html
+
 Scrapy学习篇（十三）之scrapy-splash https://www.jianshu.com/p/b9a2ea9277ce
 'scrapy: command not found' even though requirements are already satisfied
 
-＝＝＝＝＞python3 -m scrapy
+＝＝＝＝＞python3 -m scrapy ...
 
 scrapy doc  https://scrapy.org/
 
-如何从机器A上ssh到机器B上，然后执行机器B上的命令？如何使之自动化完成？  Expect是一个用来处理交互的命令。https://www.cnblogs.com/lzrabbit/p/4298794.html
+
 Python的Flask框架使用Redis做数据缓存的配置方法   https://www.51sjk.com/b99b134754/
 Python的Flask框架使用Redis做数据缓存的配置方法  http://www.gimoo.net/t/1712/5a40567b1d071.html
 gin 、sanic、flask 读取 redis 并发对比 https://cdn.modb.pro/db/456300
