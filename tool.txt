@@ -1,2 +1,4 @@
+
+如何在Win10上记录PowerShell命令会话  http://www.62hx.com/zixun/12321.html
 OptiPlex 9020 和 XE2 小型机 (SFF) 客户可更换部件 (CRU) 拆卸指南  https://www.dell.com/support/kbdoc/zh-cn/000145414/optiplex-9020-and-xe2-small-form-factor-sff-teardown-removal-guide-for-customer-replaceable-units-crus
   卸下纽扣电池
