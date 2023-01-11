@@ -1,3 +1,6 @@
+如何零成本给博客集成 umami 数据统计分析功能  https://guangzhengli.com/blog/zh/how-to-integrate-umami-for-free-to-blog-site/
+
+
 expectで対話式のコマンドを自動化する  https://sy-base.com/myrobotics/mac/expect_shell_script/
 
 
